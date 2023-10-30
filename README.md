@@ -1,19 +1,19 @@
-# java-gpt
+# java ChatBOT con GPT de OpenAI 
 Este proyecto es un ejemplo de cómo se puede integrar Jakarta EE con Vaadin y la API de OpenAI para utilizar funciones auxiliares que enriquecen el contenido presentado al interactuar con un asistente inteligente GPT.
 
 # STACK
-- OpenAI API
+- API de OpenAI
 - Java
 - Vaadin
 
 # Presentacion
-
+- 
 
 
 # Licencia 2023 (C)
 M.I.T. /  CC by
 
-Autor:
+## Autor:
 Francisco Contreras
 https://github.com/fcontreras
 
